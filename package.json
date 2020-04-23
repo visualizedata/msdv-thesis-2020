@@ -1,0 +1,8 @@
+{
+  "name": "msdv-thesis-2020",
+  "private": true,
+  "scripts": {
+    "pull": "git pull --recurse-submodules",
+    "sync": "git submodule sync && git submodule update --init --recursive --remote"
+  }
+}
