@@ -21,6 +21,7 @@ GIT_PATH[${index}]="${git}"
 `
 
   readme += `* [${name} (${folder})](${git})
+![](${git}/raw/master/preview.png)
 `
 }
 
