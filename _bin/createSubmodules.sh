@@ -10,7 +10,7 @@ FOLDER_NAME[2]="dreya247"
 GIT_PATH[2]="https://github.com/acdreyer/thesis"
 
 FOLDER_NAME[3]="zeinn936"
-GIT_PATH[3]="https://github.com/nourzein/thesis"
+GIT_PATH[3]="https://github.com/nourzein/thesis_code"
 
 FOLDER_NAME[4]="grund302"
 GIT_PATH[4]="https://github.com/dangrunebaum/thesis"
