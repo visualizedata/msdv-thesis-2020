@@ -37,7 +37,7 @@ FOLDER_NAME[11]="niy045"
 GIT_PATH[11]="https://github.com/yiranni/thesis"
 
 FOLDER_NAME[12]="caitlyn"
-GIT_PATH[12]="https://github.com/caitlynmralph/thesis"
+GIT_PATH[12]="https://github.com/caitlynmralph/thesis-app-sandbox"
 
 FOLDER_NAME[13]="mio"
 GIT_PATH[13]="https://github.com/miopio/thesis-play"
