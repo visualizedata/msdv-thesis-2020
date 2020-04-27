@@ -31,8 +31,6 @@
 * [John (outwj058)](https://github.com/joutwater/jo_berry_code)
 ![](https://github.com/joutwater/jo_berry_code/raw/master/preview.png)
 * [Brad (macdonab)](https://github.com/daggus/EmojiEpoch/)
-![](https://github.com/daggus/EmojiEpoch//raw/master/preview.png)
-* [Xingyang (caix244)](https://github.com/caixingyang1228/thesis_dv)
 ![](https://github.com/caixingyang1228/thesis_dv/raw/master/preview.png)
 * [Zui (zuic)](https://github.com/azuic/unmask-mask)
 ![](https://github.com/azuic/unmask-mask/raw/master/preview.png)
