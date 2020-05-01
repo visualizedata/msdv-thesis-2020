@@ -20,7 +20,7 @@ FOLDER_NAME[${index}]="${folder}"
 GIT_PATH[${index}]="${git}"
 `
 
-  readme += `* [${name} (${folder})](${git})
+  readme += `* [${name} (${folder})](${git}) / [demo.mp4](${git}/raw/master/demo.mp4)
 ![](${git}/raw/master/preview.png)
 `
 }
